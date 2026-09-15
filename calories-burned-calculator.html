@@ -4,9 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Free Calories Burned Calculator — Exercise Estimate | VitalCalc</title>
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="alternate icon" href="/favicon.ico">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2895810972471113"
      crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5784RDJ21Y"></script>
@@ -36,6 +33,16 @@
   "operatingSystem": "Any browser",
   "description": "Estimate calories burned during exercise from your weight and workout duration.",
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "Why does my fitness tracker show a different number than this calculator?", "acceptedAnswer": { "@type": "Answer", "text": "Wearables estimate calorie burn from real-time heart rate and movement data, which responds to your actual effort level \u2014 this calculator uses a fixed intensity assumption, so the two will rarely match exactly." } },
+    { "@type": "Question", "name": "Does this account for how hard I'm actually working out?", "acceptedAnswer": { "@type": "Answer", "text": "Only loosely \u2014 it assumes moderate intensity throughout. A harder effort burns meaningfully more than this estimate, and an easier one burns less." } }
+  ]
 }
 </script>
 <link rel="stylesheet" href="/assets/style.css">
@@ -92,7 +99,22 @@
       <div class="content-block">
         <h2>How are burned calories estimated?</h2>
         <p>This estimate scales a moderate-intensity MET value by your body weight and workout duration. Actual burn varies a lot with intensity, fitness level, and the specific activity — treat this as a ballpark, not a precise energy-expenditure reading like a lab test or a chest-strap heart-rate monitor would give.</p>
+        <p>This estimate uses a moderate-intensity MET (metabolic equivalent) value scaled by your weight and workout duration — a standard method used across many fitness calculators, but a genuinely rough one. Actual burn depends heavily on intensity, your current fitness level (fitter people often burn somewhat less for the same activity, since they're more efficient), and the specific exercise, which is why a wearable device with a heart-rate sensor will usually give a different number than a formula like this one.</p>
       </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2>Calories Burned — common questions</h2>
+      <details class="faq-item" open>
+        <summary>Why does my fitness tracker show a different number than this calculator?</summary>
+        <p>Wearables estimate calorie burn from real-time heart rate and movement data, which responds to your actual effort level — this calculator uses a fixed intensity assumption, so the two will rarely match exactly.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Does this account for how hard I'm actually working out?</summary>
+        <p>Only loosely — it assumes moderate intensity throughout. A harder effort burns meaningfully more than this estimate, and an easier one burns less.</p>
+      </details>
     </div>
   </section>
 
@@ -122,6 +144,7 @@
 
 <footer class="site-footer">
   <div class="container">
+    <p style="margin-bottom:8px;"><a href="/privacy-policy.html">Privacy Policy</a></p>
     &copy; 2026 VitalCalc. Estimates only — not a substitute for professional medical advice.
   </div>
 </footer>

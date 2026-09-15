@@ -4,9 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Free BMI Calculator — Body Mass Index by Height & Weight | VitalCalc</title>
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="alternate icon" href="/favicon.ico">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2895810972471113"
      crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5784RDJ21Y"></script>
@@ -36,6 +33,16 @@
   "operatingSystem": "Any browser",
   "description": "Calculate your Body Mass Index (BMI) from height and weight, metric or imperial, and see your category on the standard BMI scale.",
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "Does BMI work the same way for athletes and bodybuilders?", "acceptedAnswer": { "@type": "Answer", "text": "Not reliably. Muscle is denser than fat, so a muscular person can land in the 'overweight' BMI range while actually carrying very little body fat. For athletes, body fat percentage is a far more meaningful number than BMI." } },
+    { "@type": "Question", "name": "Is BMI calculated differently for children?", "acceptedAnswer": { "@type": "Answer", "text": "Yes \u2014 children and teens are assessed with age- and sex-specific BMI percentile charts rather than the fixed adult categories this calculator uses, since a healthy body composition changes a lot during growth." } }
+  ]
 }
 </script>
 <link rel="stylesheet" href="/assets/style.css">
@@ -112,7 +119,22 @@
       <div class="content-block">
         <h2>What is BMI, and what does it actually tell you?</h2>
         <p>Body Mass Index compares your weight to your height to give a rough estimate of whether you're in a typical weight range for your height. It doesn't measure body fat directly, and it can be misleading for very muscular people or older adults who've lost muscle mass — but it's still one of the fastest, most widely used starting points doctors and researchers rely on.</p>
+        <p>BMI was never designed as a precision tool — it was built in the 1830s to describe averages across populations, not to judge one person's health. It says nothing about where fat is distributed (which matters more for health risk than total amount), and it can't tell the difference between a bodybuilder and someone carrying excess fat at the same height and weight. Doctors typically use it as a first-pass screening number, then look at waist circumference, activity level, and blood markers before drawing any real conclusions.</p>
       </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2>BMI — common questions</h2>
+      <details class="faq-item" open>
+        <summary>Does BMI work the same way for athletes and bodybuilders?</summary>
+        <p>Not reliably. Muscle is denser than fat, so a muscular person can land in the 'overweight' BMI range while actually carrying very little body fat. For athletes, body fat percentage is a far more meaningful number than BMI.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Is BMI calculated differently for children?</summary>
+        <p>Yes — children and teens are assessed with age- and sex-specific BMI percentile charts rather than the fixed adult categories this calculator uses, since a healthy body composition changes a lot during growth.</p>
+      </details>
     </div>
   </section>
 
@@ -142,6 +164,7 @@
 
 <footer class="site-footer">
   <div class="container">
+    <p style="margin-bottom:8px;"><a href="/privacy-policy.html">Privacy Policy</a></p>
     &copy; 2026 VitalCalc. Estimates only — not a substitute for professional medical advice.
   </div>
 </footer>

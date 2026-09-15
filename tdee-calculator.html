@@ -4,9 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Free TDEE Calculator — Total Daily Energy Expenditure | VitalCalc</title>
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="alternate icon" href="/favicon.ico">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2895810972471113"
      crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5784RDJ21Y"></script>
@@ -36,6 +33,16 @@
   "operatingSystem": "Any browser",
   "description": "Calculate your Total Daily Energy Expenditure (TDEE) from your BMR and activity level.",
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "My weight isn't changing even though I'm eating at this TDEE number \u2014 why?", "acceptedAnswer": { "@type": "Answer", "text": "Formula-based TDEE is an estimate, not a measurement \u2014 actual metabolism varies by person. Track your weight trend over 2\u20133 weeks and adjust the calorie number based on what's really happening." } },
+    { "@type": "Question", "name": "How often should I recalculate TDEE?", "acceptedAnswer": { "@type": "Answer", "text": "Whenever your weight changes meaningfully (a few kilograms) or your activity level changes significantly \u2014 otherwise, every few months is generally plenty." } }
+  ]
 }
 </script>
 <link rel="stylesheet" href="/assets/style.css">
@@ -92,7 +99,22 @@
       <div class="content-block">
         <h2>What is TDEE?</h2>
         <p>Total Daily Energy Expenditure adds your activity level on top of your BMR, giving a realistic estimate of how many calories you actually burn in a normal day. If you don't already know your BMR, use the BMR calculator first, or the combined Calorie calculator to get both in one step.</p>
+        <p>If you don't already know your BMR, this calculator expects you to enter it manually — the combined Calorie calculator on this site does both steps (BMR plus TDEE) in one form if you'd rather skip calculating BMR separately first. Whichever way you get there, treat the resulting TDEE as a starting estimate: if your weight doesn't move the way the number predicts over 2–3 weeks of consistent eating, adjust the number up or down based on what's actually happening rather than trusting the formula over your own data.</p>
       </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2>TDEE — common questions</h2>
+      <details class="faq-item" open>
+        <summary>My weight isn't changing even though I'm eating at this TDEE number — why?</summary>
+        <p>Formula-based TDEE is an estimate, not a measurement — actual metabolism varies by person. Track your weight trend over 2–3 weeks and adjust the calorie number based on what's really happening.</p>
+      </details>
+      <details class="faq-item">
+        <summary>How often should I recalculate TDEE?</summary>
+        <p>Whenever your weight changes meaningfully (a few kilograms) or your activity level changes significantly — otherwise, every few months is generally plenty.</p>
+      </details>
     </div>
   </section>
 
@@ -122,6 +144,7 @@
 
 <footer class="site-footer">
   <div class="container">
+    <p style="margin-bottom:8px;"><a href="/privacy-policy.html">Privacy Policy</a></p>
     &copy; 2026 VitalCalc. Estimates only — not a substitute for professional medical advice.
   </div>
 </footer>

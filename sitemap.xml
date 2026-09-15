@@ -2,142 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fmcollection.github.io/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://fmcollection.github.io/privacy-policy.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://fmcollection.github.io/bmi-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/calorie-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/bmr-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/body-fat-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/ideal-weight-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/pace-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/army-body-fat-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/lean-body-mass-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/healthy-weight-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/calories-burned-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/one-rep-max-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/target-heart-rate-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/pregnancy-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/pregnancy-weight-gain-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/conception-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/due-date-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/ovulation-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/period-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/macro-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/carbohydrate-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/protein-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/fat-intake-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/tdee-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/gfr-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/body-type-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/body-surface-area-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://fmcollection.github.io/bac-calculator.html</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
